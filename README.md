@@ -72,26 +72,3 @@ If you are having general issues with this package, feel free to contact me on [
 If you believe you have found an issue, please report it using the [GitHub issue tracker](https://github.com/mlezcano1985/rut/issues), or better yet, fork the repository and submit a pull request.
 
 If you're using this package, I'd love to hear your thoughts. Thanks!
-
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0.
-
-## Code scaffolding
-
-Run `ng generate component component-name --project NgxRutFormatter` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project NgxRutFormatter`.
-> Note: Don't forget to add `--project NgxRutFormatter` or else it will be added to the default project in your `angular.json` file. 
-
-## Build
-
-Run `ng build NgxRutFormatter` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Publishing
-
-After building your library with `ng build NgxRutFormatter`, go to the dist folder `cd dist/ngx-rut-formatter` and run `npm publish`.
-
-## Running unit tests
-
-Run `ng test NgxRutFormatter` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
