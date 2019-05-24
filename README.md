@@ -69,6 +69,6 @@ import { NgxRutFormatterService } from '@mlezcano1985/ngx-rut-formatter';
 # Support
 If you are having general issues with this package, feel free to contact me on [Twitter](https://twitter.com/mlezcano1985).
 
-If you believe you have found an issue, please report it using the [GitHub issue tracker](https://github.com/mlezcano1985/rut/issues), or better yet, fork the repository and submit a pull request.
+If you believe you have found an issue, please report it using the [GitHub issue tracker](https://github.com/mlezcano1985/ngxRutFormatter/issues), or better yet, fork the repository and submit a pull request.
 
 If you're using this package, I'd love to hear your thoughts. Thanks!
