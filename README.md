@@ -2,6 +2,9 @@
 
 Angular module to format and validate rut (Chile) number using [https://github.com/mlezcano1985/rut](https://github.com/mlezcano1985/rut)
 
+# Demo
+You can view an example [here](https://github.com/mlezcano1985/angular_examples).
+
 # How to install?
 ```
 npm install --save @mlezcano1985/ngx-rut-formatter
